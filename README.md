@@ -8,6 +8,8 @@ But the main purpose is to show that I know how to use Android tools to create a
 
 This project not built to be smart. for example, I didn't built a real registeration beacuse its not importnat for showing Android programming principles.
 
+the second app (UsersApp) get its data from the agenciesApp using content provider (even it has example data), so them both should be installed and running (the data saved on lists, after I unable rich the server anymore).
+
 In addition, I don't have anymore permission to server, and I didn't update the server yet, so there is not option to use server abilities...
 
 
