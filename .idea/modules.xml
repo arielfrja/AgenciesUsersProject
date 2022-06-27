@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgenciesUsersProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AgenciesUsersProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AgenciesApp/AgenciesUsersProject.AgenciesApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.iml" filepath="$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/usersApp/AgenciesUsersProject.usersApp.unitTest.iml" />
+    </modules>
+  </component>
+</project>
